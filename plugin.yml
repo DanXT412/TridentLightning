@@ -1,0 +1,6 @@
+name: TridentLightning
+version: '1.0'
+main: me.danxt412.tridentlightning.TridentLightning
+api-version: '1.21'
+author: DanXT412
+description: Trident summons lightning in any weather.
